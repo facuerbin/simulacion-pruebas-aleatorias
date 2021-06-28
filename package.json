@@ -1,0 +1,23 @@
+{
+  "name": "pruebas_aleatorias",
+  "version": "1.0.0",
+  "description": "Pruebas de números aleatorios - Simulación - UTN FRM 4K10",
+  "main": "pruebas_aleatorias.js",
+  "dependencies": {
+    "typescript": "^4.3.4",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pruebas",
+    "aleatorias",
+    "simulacion"
+  ],
+  "author": "Facundo Erbin",
+  "license": "ISC"
+}
